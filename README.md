@@ -20,6 +20,6 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 🚀Apaixonado por tecnologia e procurando desenvolver a cada dia!! 
-🚀Apasionado por la tecnología y buscando desarrollarse cada día!!  <br>
-🧠💻Cursando Analise e Desenvolvimento de Sistema-FIAP 
+🚀Apasionado por la tecnología y buscando desarrollarse cada día!!   <br>
+🧠💻Cursando Analise e Desenvolvimento de Sistema-FIAP  <br>
 
