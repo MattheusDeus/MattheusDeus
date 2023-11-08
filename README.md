@@ -1,4 +1,4 @@
-### Olá! eu sou o Matheus Deus 👋 <br>
+### Olá! eu sou o Matheus Deus 👋 
 ### ¡Hola! Soy Matheus de Deus 👋
 
 
@@ -7,7 +7,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://matheusmeris05@outlook.com)
 
 
-## Tecnologias que eu uso no meu dia a dia. <br>
+## Tecnologias que eu uso no meu dia a dia. 
 ## Tecnologías que uso en mi vida diaria.
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitee)
