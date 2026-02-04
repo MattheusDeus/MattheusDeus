@@ -21,5 +21,6 @@
 
 🚀Apaixonado por tecnologia e procurando desenvolver a cada dia!! <br>
 🚀Apasionado por la tecnología y buscando desarrollarse cada día!!   <br>
-🧠💻Cursando Analise e Desenvolvimento de Sistema-FIAP  <br>
+🧠💻Analise e Desenvolvimento de Sistema-FIAP  <br>
+🧠💻Cursando MBA em Engenharia de Software   <br> 
 
